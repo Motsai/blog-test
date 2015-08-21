@@ -1,2 +1,1 @@
-# motsai.github.io
-GitHub Pages for Blogging
+Renamed repository to test HubPress instead
